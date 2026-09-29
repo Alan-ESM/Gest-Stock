@@ -1,4 +1,6 @@
 Gest-Stock
+
+
 En quoi consiste le projet ?
 GestStock est une application console en C destinée à gérer un stock de produits :
 
