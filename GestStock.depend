@@ -1,0 +1,133 @@
+# depslib dependency file v1.0
+1738102396 source:c:\users\dorian\documents\geststock\geststock\main.c
+	<stdio.h>
+	<stdlib.h>
+	"produits.h"
+	"commandes.h"
+	"statistiques.h"
+
+1738090450 source:c:\users\dorian\documents\geststock\geststock\commandes.c
+	<stdio.h>
+	<stdlib.h>
+	"produits.h"
+
+1738090466 c:\users\dorian\documents\geststock\geststock\produits.h
+
+1738090464 c:\users\dorian\documents\geststock\geststock\commandes.h
+
+1738090442 c:\users\dorian\documents\geststock\geststock\statistiques.h
+
+1738102614 source:c:\users\dorian\documents\geststock\geststock\produits.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"produits.h"
+
+1738090461 source:c:\users\dorian\documents\geststock\geststock\statistiques.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<float.h>
+	"produits.h"
+	"statistiques.h"
+
+1738156419 source:c:\users\12eleven\documents\geststock-main\commandes.c
+	<stdio.h>
+	<stdlib.h>
+	"produits.h"
+
+1738156419 c:\users\12eleven\documents\geststock-main\produits.h
+
+1738156419 source:c:\users\12eleven\documents\geststock-main\main.c
+	<stdio.h>
+	<stdlib.h>
+	"produits.h"
+	"commandes.h"
+	"statistiques.h"
+
+1738156419 c:\users\12eleven\documents\geststock-main\commandes.h
+
+1738156419 c:\users\12eleven\documents\geststock-main\statistiques.h
+
+1738156419 source:c:\users\12eleven\documents\geststock-main\produits.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"produits.h"
+
+1738156419 source:c:\users\12eleven\documents\geststock-main\statistiques.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<float.h>
+	"produits.h"
+	"statistiques.h"
+
+1738287048 source:c:\users\12eleven\documents\keyce\b1 2024-2025\s1\c et c++\td\app de buss\geststock-main\commandes.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"produits.h"
+
+1738164622 c:\users\12eleven\documents\keyce\b1 2024-2025\s1\c et c++\td\app de buss\geststock-main\produits.h
+
+1738252705 source:c:\users\12eleven\documents\keyce\b1 2024-2025\s1\c et c++\td\app de buss\geststock-main\main.c
+	<stdio.h>
+	<stdlib.h>
+	"produits.h"
+	"commandes.h"
+	"statistiques.h"
+
+1738164622 c:\users\12eleven\documents\keyce\b1 2024-2025\s1\c et c++\td\app de buss\geststock-main\commandes.h
+
+1738156419 c:\users\12eleven\documents\keyce\b1 2024-2025\s1\c et c++\td\app de buss\geststock-main\statistiques.h
+
+1742423938 source:c:\users\12eleven\documents\keyce\b1 2024-2025\s1\c et c++\td\app de buss\geststock-main\produits.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"produits.h"
+
+1738164622 source:c:\users\12eleven\documents\keyce\b1 2024-2025\s1\c et c++\td\app de buss\geststock-main\statistiques.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<float.h>
+	"produits.h"
+	"statistiques.h"
+
+1738287048 source:c:\users\12eleven\documents\keyce\b1 2024-2025\proj\geststock-main\commandes.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"produits.h"
+
+1738164622 c:\users\12eleven\documents\keyce\b1 2024-2025\proj\geststock-main\produits.h
+
+1738252705 source:c:\users\12eleven\documents\keyce\b1 2024-2025\proj\geststock-main\main.c
+	<stdio.h>
+	<stdlib.h>
+	"produits.h"
+	"commandes.h"
+	"statistiques.h"
+
+1738164622 c:\users\12eleven\documents\keyce\b1 2024-2025\proj\geststock-main\commandes.h
+
+1738156419 c:\users\12eleven\documents\keyce\b1 2024-2025\proj\geststock-main\statistiques.h
+
+1742423938 source:c:\users\12eleven\documents\keyce\b1 2024-2025\proj\geststock-main\produits.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"produits.h"
+
+1738164622 source:c:\users\12eleven\documents\keyce\b1 2024-2025\proj\geststock-main\statistiques.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<float.h>
+	"produits.h"
+	"statistiques.h"
+

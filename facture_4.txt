@@ -1,0 +1,12 @@
+---------------------------------------
+                FACTURE                
+---------------------------------------
+Numero de facture : 4
+Date : 29/01/2025 17:35:46
+
+Produit acheté : USB_64GB
+Quantité : 20
+Prix unitaire : 10000.00
+Montant total : 200000.00
+---------------------------------------
+Merci pour votre achat !

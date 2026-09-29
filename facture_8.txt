@@ -1,0 +1,12 @@
+---------------------------------------
+                FACTURE                
+---------------------------------------
+Numero de facture : 8
+Date : 30/01/2025 14:06:58
+
+Produit achete : LAPTOP_DELL
+Quantite : 10
+Prix unitaire : 300000.00
+Montant total : 3000000.00
+---------------------------------------
+Merci pour votre achat !
